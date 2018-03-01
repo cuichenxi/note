@@ -12,10 +12,21 @@ fun a(){
  log.v()
 }
 ```
+
+# 内容说明
+ 工具 | 描述
+ ---  | ---
+ [AnimationUtils](https://github.com/l123456789jy/Lazy/blob/master/lazylibrary/src/main/java/com/github/lazylibrary/util/AnimationUtils.java)| 动画工具类
+ [AppUtils](https://github.com/l123456789jy/Lazy/blob/master/lazylibrary/src/main/java/com/github/lazylibrary/util/AppUtils.java)| APP相关信息工具类
+
+
 ###表格
-| 水果        | 价格    |  数量  |
-| --------   | -----   | ---- |
-| 香蕉        | $1      |   5    |
+水果   | 价格    |  数量  
+
+---   | ---  | ---- 
+
+ 香蕉        | $1      |   5    |
+
 | 苹果        | $1      |   6    |
 
 
