@@ -20,7 +20,7 @@ fun a(){
  [AppUtils](https://github.com/l123456789jy/Lazy/blob/master/lazylibrary/src/main/java/com/github/lazylibrary/util/AppUtils.java)| APP相关信息工具类
 
 
-###表格
+#表格
 水果   | 价格   
 ---   | ---  
  香蕉| $1
