@@ -1,7 +1,7 @@
--------------
 # 简介:
-   [邮箱](784759481@qq.com)
+   作者:阿喜
+ 
+   [邮箱:](784759481@qq.com)784759481@qq.com
+   [GIT](https://github.com/cuichenxi)
    
-   [GIT](https://github.com)
     
-   微博
