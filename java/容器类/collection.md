@@ -1,7 +1,7 @@
 # java之collection总结
 
 **Collection**
-![](../res/collection.jpeg)
+![](collection.jpeg)
 # List(链表|线性表)
 >接口,可存放重复元素,元素存取是有序的,允许在指定的位置插入元素,并且通过索引访问元素;
 >如果我们需要保留存储顺序, 并且保留重复元素, 使用List.

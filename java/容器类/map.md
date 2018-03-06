@@ -5,8 +5,7 @@
  >* Map 中的 key 用Set来存放，不允许重复，即同一个 Map 对象所对应的类，须重写hashCode()和equals()方法。
  >* 常用String类作为Map的"键"。
  >* key 和 value 之间存在单向一对一关系，即通过指定的 key 总能找到唯一的、确定的 value
-
-![](../res/map.png)
+![](map.png)
 ----------------
 名称   | 特点对比   
 ---   | ---  
